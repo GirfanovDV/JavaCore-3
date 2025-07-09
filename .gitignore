@@ -2,6 +2,9 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+.gigaide
+.idea
+JavaCore-3.iml
 
 ### Eclipse ###
 .apt_generated
